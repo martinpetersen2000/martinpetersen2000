@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hola! 👋
 
-<!--
-**martinpetersen2000/martinpetersen2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Martin Petersen
 
-Here are some ideas to get you started:
+## ¿Quién soy?
+Soy un **Programador Fullstack**
+Desde que tengo memoria me ha interesado la tecnología. En 2022 comencé a estudiar programación, y desde entonces, he estado inmerso en este mundo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ¿Qué hago? 
+Actualmente me dedico a realizar proyectos académicos y personales para mi superación como desarrollador web.
+
+## ¿A dónde me dirijo?
+
+Mi objetivo principal es utilizar soluciones tecnológicas para ayudar a las personas a superar sus obstáculos y mejorar sus experiencias digitales. Me emociona la idea de aprovechar cada oportunidad para generar un impacto positivo a través del desarrollo web.
+
+## Qué tecnologias uso? 
+JavaScript - PostgreSQL - Sequelize - NodeJS - Express - Firebase - ReactJS - Redux - Redux Toolkit - Tailwind CSS
+
+
+
+
+
