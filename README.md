@@ -16,7 +16,8 @@ Mi objetivo principal es utilizar soluciones tecnológicas para ayudar a las per
 ## Qué tecnologias uso? 
 JavaScript - PostgreSQL - Sequelize - NodeJS - Express - Firebase - ReactJS - Redux - Redux Toolkit - Tailwind CSS
 
-
+*No dudes en contactarme!*
+📧Email: martinpetersen2000@gmail.com
 
 
 
